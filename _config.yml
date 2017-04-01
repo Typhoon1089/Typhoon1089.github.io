@@ -30,8 +30,12 @@ navbar-links:
     - Công ty lớn: "emptyPage"
   Kiến thức: 
     - Video coding: "emptyPage"
+<<<<<<< HEAD
     - Streaming system: "emptyPage"
     - Khái niệm: "2017-03-31-Terms"
+=======
+    - Streaming Protocol: "emptyPage"
+>>>>>>> origin/master
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
