@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Multimedia networking center
+title: Video Streaming Center
 
 # Short description of your site
 description: A virtual proof that name is awesome!
@@ -23,12 +23,16 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
+  Video streaming: "emptyPage"
+  Virtual reality: "emptyPage" 
+  Góc nhìn:
+    - Chuyên gia: "2017-03-30-Experts-Reports"
+    - Công ty lớn: "emptyPage"
+  Kiến thức: 
+    - Video coding: "emptyPage"
+    - Streaming system: "emptyPage"
+    - Khái niệm: "2017-03-31-Terms"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -43,8 +47,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Video Streaming Center
+  email: "hung.kstn.k52@gmail.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
@@ -61,14 +65,14 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
-  github: true
+  github: false
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -79,14 +83,14 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "typhoon1089.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -112,7 +116,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Tokyo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
