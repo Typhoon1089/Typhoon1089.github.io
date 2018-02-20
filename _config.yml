@@ -23,14 +23,13 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Video streaming: "emptyPage"
   Virtual reality: "emptyPage" 
   Góc nhìn:
     - Chuyên gia: "2017-03-30-Experts-Reports"
     - Công ty lớn: "emptyPage"
-  Kiến thức: 
+  Video: 
     - Video coding: "emptyPage"
-    - Streaming system: "emptyPage"
+    - Video streaming: "2018-02-14-Video-Streaming"
     - Khái niệm: "2017-03-31-Terms"
   About Me: "aboutme"
 
