@@ -10,7 +10,7 @@ Phần này sẽ trình bày các kiến thức về video streaming. Điểm đ
 
 1. Cloud gaming
 	* Giới thiệu về GamingAnyWhere - một open cloud gaming system [[link]]({{site.url}}/2018-02-15-GamingAnyWhere/)
-	* Lập trình theo module trong GamingAnyWhere [[link]]({{site.url}}/2018-02-17-GA-module/)
+	* Các module trong GamingAnyWhere [[link]]({{site.url}}/2018-02-17-GA-module/)
 
 2. Dynamic Adaptive Streaming over HTTP
-	* Từ ABR rules cho đến hiểu toàn bộ thư viện DASHJS [[link]]({{site.url}}/2018-02-06-DASHJS/)
+	* Thư viện DASHJS [[link]]({{site.url}}/2018-02-06-DASHJS/)

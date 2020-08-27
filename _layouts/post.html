@@ -6,7 +6,7 @@ layout: base
 
 <div class="container">
   <div class="row">
-    <div class="col-lg-9 col-lg-offset-3 col-md-10 col-md-offset-1">
+    <div class="col-lg-9 col-md-9 col-sm-12">
 
       <article role="main" class="blog-post">
         {{ content }}
@@ -48,5 +48,10 @@ layout: base
         </div>
       {% endif %}
     </div>
+
+    <div class="col-lg-3 col-md-3 col-sm-12 glRight">
+      {% include latest-news.html %}
+    </div>
+
   </div>
 </div>

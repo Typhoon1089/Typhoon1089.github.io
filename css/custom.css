@@ -1,0 +1,20 @@
+.rightSrticleBox {
+  width: 100%;
+  clear: both;
+  overflow: hidden;
+  position: relative;
+  padding: 20px;
+  border: 1px solid #404040;
+  min-height: 152px;
+  margin: 25px 0;
+}
+
+.rightSrticleBox ul li a {
+    display: block;
+    margin: 0 0 0;
+    padding: 10px 0;
+    list-style: none;
+    text-decoration: none;
+    color: #404040;
+    border-bottom: 1px solid #ccc;
+}

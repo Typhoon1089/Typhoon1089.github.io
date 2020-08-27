@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giới thiệu về GamingAnyWhere - một open cloud gaming system
+title: GamingAnyWhere - một open cloud gaming system
 subtitle: ... updated on Feb. 18, 2018
 image: /img/logo-ga.jpeg
 tags: [System]
